@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.Form1.resources
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.exe
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.pdb
+C:\Users\Administrator\Desktop\AMP11A\22_10_2018\MayinTarlasi\MayinTarlasi\obj\x86\Debug\MayinTarlasi.csprojResolveAssemblyReference.cache
